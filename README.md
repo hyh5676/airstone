@@ -25,9 +25,9 @@ To accelerate the development of accelerator-empowered (especially FPGA or ASIC-
 We are packaging our accelerator designs into the AIRSTONE project. Through AIRSTONE, we aim to: 1) develop hardware IP for traditional robotic computing that can be seamlessly integrated into SoC chips to boost performance and reduce the cost of on-robot computing systems; and 2) develop instruction sets for robotic computing that can augment embedded CPUs' instruction sets.
 
 In the AIRSTONE project, we will continually open-source accelerator designs for EAI robots. In its first phase, we are primarily open-sourcing accelerator designs from our previous papers, focusing on localization, path planning, and controls and HIL digital twin simulator:
-1. ORB feature extraction.
-2. Factor graph based optimizers for localization, path planning and control.
-3. Autonomous driving digital twin simulator.
+1. [ORB feature extraction](https://github.com/airs-cuhk/airstone/tree/main/orb).
+2. [Factor graph based optimizers for localization, path planning and control](https://github.com/airs-cuhk/airstone/tree/main/factor_graph).
+3. [Autonomous driving digital twin simulator](https://github.com/airs-cuhk/airstone/tree/main/ADDT).
 
 Reference: 
 1. "Building the computing system for autonomous micromobility vehicles: Design constraints and architectural optimizations." 2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO). IEEE, 2020.
