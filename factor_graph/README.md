@@ -1,6 +1,10 @@
-Factor Graph FPGA Accelerator Source Code
+### Factor Graph FPGA Accelerator Source Code
 
 This is a hardware accelerator, which combines localization, planning and control. Specifically, in this accelerator, all applications share the same QR decomposition module and Backward substitution module.
+
+-----------
+
+
 
 1. Core Verilog Files
 
@@ -15,6 +19,8 @@ SDF.h:  Signed Distance Field Computation Unit
 Smooth.h:  Smooth Unit
 TOP.cpp:  Main Unit
 TOP.h:  Parameters Configuration for Main Unit
+
+------
 
 2. Key Parameters
 
