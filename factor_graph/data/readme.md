@@ -4,4 +4,4 @@ We utilize LIO-SAM as the front-end to extract corresponding lidar and IMU data 
 
 In the final, you can generate the image from the data.txt like this.
 
-![Ground](E:\orb_submit\airstone\factor_graph\data\Ground.png)
+![Ground](./Ground.png)
